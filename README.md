@@ -1,10 +1,8 @@
-<div style="display: flex; flex-direction: row;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LunarDerrick&rank_icon=github&show_icons=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunarDerrick&layout=compact&card_width=320" />
-  </a>
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=LunarDerrick&rank_icon=github&show_icons=true" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunarDerrick&layout=compact" /></div>
 </div>
 
 <!--
