@@ -1,5 +1,5 @@
 <div class='container'>
-  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=LunarDerrick&rank_icon=github&show_icons=true&hide=stars,contribs" />
+  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=LunarDerrick&rank_icon=github&show_icons=true&hide=stars" />
   &nbsp;
   <img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunarDerrick&layout=compact" />
 </div>
